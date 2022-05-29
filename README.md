@@ -5,9 +5,12 @@
   本文提出一种基于反向学习策略和正弦余弦优化策略的改进鸽群算法（Adaptive Learning Pigeon-Inspired Optimization and Opposition-based Learining with Sine and Cosine,ALPIO-OBL-SC）对FPN参数进行优化。
 
 ## 实验结果展示
-实验基于此FPN模型：![FPN模型](https://cdn.jsdelivr.net/gh/chen0495/newpicgo/img2022/202205291512884.png)  
-测试函数收敛性测试对比结果：![收敛性测试对比](https://cdn.jsdelivr.net/gh/chen0495/newpicgo/img2022/202205291510210.png)  
-FPN收敛性测试对比结果：![](https://cdn.jsdelivr.net/gh/chen0495/newpicgo/img2022/202205291514421.png)  
+实验基于此FPN模型：  
+![FPN模型](https://cdn.jsdelivr.net/gh/chen0495/newpicgo/img2022/202205291512884.png)  
+测试函数收敛性测试对比结果：  
+![收敛性测试对比](https://cdn.jsdelivr.net/gh/chen0495/newpicgo/img2022/202205291510210.png)  
+FPN收敛性测试对比结果：  
+![](https://cdn.jsdelivr.net/gh/chen0495/newpicgo/img2022/202205291514421.png)  
 
 ## 实验环境
 实验环境：
