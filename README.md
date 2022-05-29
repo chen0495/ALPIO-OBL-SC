@@ -6,7 +6,8 @@
  - win10 Pro操作系统
  - 16G内存
  - Python3.8
- - Jupyter Notebook 6.4.10
+ - Jupyter Notebook 6.4.10  
+
 ===================目录结构===================  
 - PIO鸽群优化算法
 	- Function.py                  #测试函数包
