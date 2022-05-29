@@ -1,4 +1,4 @@
-本文基于改进鸽群算法对模糊Petri网参数进行优化，[详细介绍请下载Relaese](https://github.com/chen0495/ALPIO-OBL-SC/releases/tag/PIO)  
+本文基于改进鸽群算法对模糊Petri网参数进行优化，[详细介绍请到Relaese下载论文PDF](https://github.com/chen0495/ALPIO-OBL-SC/releases/tag/PIO)  
 实验主体文件为“PIO_反向学习_正余弦.ipynb”，请在对应环境下运行该文件  
 
 
